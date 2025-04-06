@@ -1,6 +1,6 @@
 def Main():
     running = True
     while running:
-        pass
+        userInput = input()
 
 Main()
